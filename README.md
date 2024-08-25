@@ -1,6 +1,7 @@
 # Netflix GPT
 
   -create React App
+   npx create-react-app <my-project>
   -configured TailwindCSS
 
 # Features 
